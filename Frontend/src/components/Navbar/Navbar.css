@@ -1,0 +1,23 @@
+nav{
+  background-color: brown;
+}
+ul{
+  display: flex; 
+  justify-content: space-around;
+  padding: 10px;
+}
+.Link{
+  text-decoration: none;
+  color: black;
+  
+}
+li{
+  list-style: none;
+  background-color: white;
+  padding: 10px;
+  border-radius: 10px;
+}
+li:hover{
+  background-color: blueviolet;
+  color: white;
+}
